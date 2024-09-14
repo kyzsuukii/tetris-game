@@ -8,11 +8,12 @@ A simple Tetris game implemented in JavaScript, HTML, and CSS.
 - [Usage](#usage)
 - [Keymap](#keymap)
 - [Development](#development)
+
 ## Installation
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tetris-game.git
+    git clone https://github.com/kyzsuukii/tetris-game.git
     cd tetris-game
     ```
 
