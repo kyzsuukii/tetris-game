@@ -29,7 +29,7 @@ To start the game, run the following command:
 pnpm run dev
 ```
 
-Then open your browser and navigate to http://localhost:3000.
+Then open your browser and navigate to http://localhost:5173.
 
 ## Keymap
 
